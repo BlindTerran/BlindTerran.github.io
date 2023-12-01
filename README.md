@@ -1,2 +1,2 @@
 # BlindTerran.github.io
-Access via here [https://username.github.io.](https://username.github.io.)
+Access via here [here](https://BlindTerran.github.io.)
