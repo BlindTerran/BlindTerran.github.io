@@ -1,2 +1,2 @@
 # BlindTerran.github.io
-Playground
+Access via https://username.github.io.
